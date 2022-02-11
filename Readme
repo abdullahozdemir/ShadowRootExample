@@ -1,0 +1,12 @@
+#ShadowRoot Steps
+
+*inspect he webElement
+*find the location line the webElement
+*right click > copy > Copy JS path
+*Click the Console top side 
+*Right click and Paste >> ENTER
+*Be sure the correct WebElement
+*Delete all the words until first ">" sign also delete ">"
+*Copy the new Path and Paste intellij
+
+
